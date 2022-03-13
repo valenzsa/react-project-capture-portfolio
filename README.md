@@ -1,5 +1,12 @@
 # Getting Started with Create React App
 
+# Packages Used for reference:
+styles-components@5.2.0
+react-router-dom@5.2.0
+react-intersection-observer@8.29.0
+framer-motion@2.9.1
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
